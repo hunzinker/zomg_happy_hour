@@ -2,8 +2,6 @@
 
 Meteor happy hour application.
 
-http://zomg.meteor.com/
-
 ## Credit
 
 * http://meteor.com/main
